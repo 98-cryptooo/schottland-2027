@@ -1,5 +1,5 @@
 // Offline-Cache. Bei jeder Änderung an der App VERSION erhöhen.
-const VERSION = "sc27-v1";
+const VERSION = "sc27-v2";
 const FILES = ["./", "index.html", "app.js", "data.js", "config.js", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 
 self.addEventListener("install", e => {

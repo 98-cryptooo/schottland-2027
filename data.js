@@ -67,9 +67,9 @@ window.TRIP = {
       ],
       route: ["Courtyard by Marriott Glasgow SEC, 16 Stobcross Road, Glasgow G3 8GS", "Three Sisters Viewpoint, A82, Glencoe, Ballachulish", "Nevis Bank Inn, Belford Road, Fort William PH33 6PF", "Glenfinnan Viaduct Viewpoint, Glenfinnan PH37 4LT", "Nevis Bank Inn, Belford Road, Fort William PH33 6PF"],
       tips: [
-        "Zug über das Viadukt laut Fahrplan 2026 gegen 16:50 und 16:55. Für Februar 2027 nicht bestätigt, zeitweise fahren Ersatzbusse. Zwei Tage vorher in der ScotRail-App prüfen.",
-        "Zwischen 13:20 und 15:45 ist Puffer für die A82 bei Schnee. Sonst Spaziergang am Loch Linnhe.",
-        "Glenfinnan: Parken am Visitor Centre, 15 Minuten zu Fuß zum Viewpoint. Sonnenuntergang 17:32."
+        "Der Dampfzug fährt laut Plan gegen 16:50 über das Viadukt. Zwei Tage vorher in der ScotRail-App prüfen, ob er im Februar fährt, manchmal fahren Ersatzbusse.",
+        "Zwischen Mittag und 15:45 ist Puffer, falls auf der A82 Schnee liegt. Sonst Spaziergang am Loch Linnhe.",
+        "Glenfinnan: Am Visitor Centre parken, 15 Minuten zu Fuß zum Aussichtspunkt. Sonnenuntergang 17:32."
       ]
     },
     {
@@ -85,9 +85,9 @@ window.TRIP = {
         ["ca. 17:00", "Edinburgh, Hotel. Freundin nimmt den Zug nach Glasgow", "JA The Bruntsfield, 69-74 Bruntsfield Place, Edinburgh EH10 4HH"]
       ],
       tips: [
-        "Geändert: Pause in Inverness und Ruthven Barracks gestrichen. So seid ihr über den Drumochter Pass (A9), bevor es um 17:34 dunkel wird.",
-        "Morgens Traffic Scotland prüfen. Kritisch sind die A82 und die A9.",
-        "Zug Edinburgh nach Glasgow fährt häufig, rund 50 Minuten."
+        "Ohne lange Pause seid ihr über den Drumochter Pass (A9), bevor es um 17:34 dunkel wird.",
+        "Morgens kurz Traffic Scotland prüfen. Im Winter sind die A82 und die A9 die kritischen Strecken.",
+        "Die Freundin nimmt ab Edinburgh den Zug nach Glasgow, rund 50 Minuten."
       ]
     },
     {
